@@ -35,3 +35,6 @@ build/
 
 data/
 logs/
+
+## ENV
+.env
