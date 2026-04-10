@@ -5,6 +5,10 @@ spring:
     username: admin
     password: password
 
+  header:
+    frame-options:
+      sameorigin: true
+
   h2:
     console:
       enabled: true
